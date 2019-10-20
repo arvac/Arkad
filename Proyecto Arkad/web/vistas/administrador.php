@@ -62,7 +62,7 @@ require 'header.php';
                             <input type="text" class="form-control" name="direccion" id="direccion" maxlength="70" placeholder="Dirección">
                           </div>
                           <div class="form-group col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                            <label>Teléfono:</label>
+                            <label>Teléfono</label>
                             <input type="text" class="form-control" name="telefono" id="telefono" maxlength="20" placeholder="Teléfono">
                           </div>
                           <div class="form-group col-lg-6 col-md-6 col-sm-6 col-xs-12">
