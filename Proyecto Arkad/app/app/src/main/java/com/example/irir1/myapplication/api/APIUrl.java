@@ -5,5 +5,5 @@ package com.example.irir1.myapplication.api;
  */
 
 public class APIUrl {
-    public static final String BASE_URL = "http://192.168.43.177/slim_prueba/public/";
+    public static final String BASE_URL = "http://192.168.0.103/slim_prueba/public/";
 }
