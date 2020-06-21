@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Arvac News</string>
+    <string name="title_home">Noticias</string>
+    <string name="title_dashboard">News Tecnology</string>
+    <string name="title_notifications">videos Blogs</string>
+</resources>
